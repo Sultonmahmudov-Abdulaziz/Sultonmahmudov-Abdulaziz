@@ -4,7 +4,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Men Python CSS va Html foydalangan holda yuqori darajali back-end xizmatlari, veb-ilovalar va tizimlarni yaratishga ixtisoslashgan dasturchiman. </br>
+Men Python CSS va HTML dan foydalangan holda yuqori darajali back-end xizmatlari, veb-ilovalar va tizimlarni yaratishga ixtisoslashgan dasturchiman. </br>
 
 Men har doim loyihalar va innovatsion g'oyalar ustida hamkorlik qilishga tayorman. Men haqimda koʻproq maʼlumot oling va men bilan bu yerda bogʻlaning:
 
@@ -45,4 +45,4 @@ Men har doim loyihalar va innovatsion g'oyalar ustida hamkorlik qilishga tayorma
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![SultonmahmudovAbdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultonmahmudovabdulaziz&show_icons=true&bg_color=00000000)
+![Sultonmahmudov-Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultonmahmudov-abdulaziz&show_icons=true&bg_color=00000000)
