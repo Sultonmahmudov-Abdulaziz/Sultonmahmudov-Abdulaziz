@@ -9,7 +9,7 @@ Men Python CSS va HTMLdan foydalangan  holda yuqori darajali back-end xizmatlari
 Men har doim loyihalar va innovatsion g'oyalar ustida hamkorlik qilishga tayorman. Men haqimda koʻproq maʼlumot oling va men bilan bu yerda bogʻlaning:
 
 [![Telegram Badge](https://img.shields.io/badge/@abdulaziz_o2o4-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/abdulaziz_o2o4)](https://t.me/sukhrobnuraliev) 
-[![Youtube Badge](https://img.shields.io/badge/@abdulaziz_o2o4-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@abdulaziz_o2o4)](https://www.youtube.com/@abdulaziz_o2o4)
+[![Instagram Badge](https://img.shields.io/badge/@abdulaziz_o2o4-FF0004?style=flat-square&logo=instagram&logoColor=white&link=https://www.Instagram.com/@abdulaziz_o2o4)](https://www.Instagram.com/@abdulaziz_o2o4)
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
