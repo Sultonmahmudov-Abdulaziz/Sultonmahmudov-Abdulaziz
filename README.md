@@ -1,22 +1,25 @@
-<h1 align="center">Python Developer</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Sultonmahmudov Abdulaziz" />
+</h1>
+
+
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life. </br>
+Men Python CCS va Html foydalangan holda yuqori darajali back-end xizmatlari, veb-ilovalar va tizimlarni yaratishga ixtisoslashgan dasturchiman. </br>
 
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+Men har doim loyihalar va innovatsion g'oyalar ustida hamkorlik qilishga tayorman. Men haqimda koʻproq maʼlumot oling va men bilan bu yerda bogʻlaning:
 
-[![Linkedin Badge](https://img.shields.io/badge/-abdulaziz_o2o4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulaziz_o2o4-100845186/)](https://www.linkedin.com/in/abdulaziz_o2o4-100845186/) 
 [![Telegram Badge](https://img.shields.io/badge/@abdulaziz_o2o4-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/abdulaziz_o2o4)](https://t.me/sukhrobnuraliev) 
 [![Youtube Badge](https://img.shields.io/badge/@abdulaziz_o2o4-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@abdulaziz_o2o4)](https://www.youtube.com/@abdulaziz_o2o4)
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel & Vue
-- :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
-- :muscle: Do Bodybuilding & Calisthenics
-- :rocket: Always ready to collaborate for Dev Experiments
+- :computer: Men hozirda Python, CCS VA HTML o'rganyapman.
+- :hourglass_flowing_sand: TATUFF Unversitet 3 kurs talabasiman.
+- :muscle:  Bodybuilding va Fudbol sport turlari bilan Shug'ulanaman.
+- :rocket: Hamkorlik qilish uchun doim tayorman!
 
 ## ⚡ Technologies
 
