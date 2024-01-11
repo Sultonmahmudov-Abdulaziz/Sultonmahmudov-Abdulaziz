@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Sultonmahmudov Abdulaziz" />
+  <img src="https://raw.githubusercontent.com/sultonmahmudovabdulaziz/sultonmahmudovabdulaziz/master/name.svg" alt="Sultonmahmudov Abdulaziz" />
 </h1>
 
 
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Men Python CCS va Html foydalangan holda yuqori darajali back-end xizmatlari, veb-ilovalar va tizimlarni yaratishga ixtisoslashgan dasturchiman. </br>
+Men Python CSS va Html foydalangan holda yuqori darajali back-end xizmatlari, veb-ilovalar va tizimlarni yaratishga ixtisoslashgan dasturchiman. </br>
 
 Men har doim loyihalar va innovatsion g'oyalar ustida hamkorlik qilishga tayorman. Men haqimda koʻproq maʼlumot oling va men bilan bu yerda bogʻlaning:
 
@@ -16,7 +16,7 @@ Men har doim loyihalar va innovatsion g'oyalar ustida hamkorlik qilishga tayorma
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: Men hozirda Python, CCS VA HTML o'rganyapman.
+- :computer: Men hozirda Python, CSS VA HTML o'rganyapman.
 - :hourglass_flowing_sand: TATUFF Unversitet 3 kurs talabasiman.
 - :muscle:  Bodybuilding va Fudbol sport turlari bilan Shug'ulanaman.
 - :rocket: Hamkorlik qilish uchun doim tayorman!
