@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/sultonmahmudovabdulaziz/sultonmahmudovabdulaziz/master/name.svg" alt="Sultonmahmudov Abdulaziz" />
-</h1>
+<h1 align="center">Python Developer</h1>
 
 
 
@@ -38,4 +36,23 @@ Men har doim loyihalar va innovatsion g'oyalar ustida hamkorlik qilishga tayorma
 ![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Image](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Image](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=sultonmahmudovabdulaziz&show_icons=true&theme=dracula)
