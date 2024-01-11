@@ -45,4 +45,4 @@ Men har doim loyihalar va innovatsion g'oyalar ustida hamkorlik qilishga tayorma
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![sultonmahmudovabdulaziz's github stats](https://github-readme-stats.vercel.app/api?username=sultonmahmudovabdulaziz&show_icons=true&theme=dracula)
+![SultonmahmudovAbdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultonmahmudovabdulaziz&show_icons=true&bg_color=00000000)
