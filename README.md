@@ -38,9 +38,7 @@ Men har doim loyihalar va innovatsion g'oyalar ustida hamkorlik qilishga tayorma
 ![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Image](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 ![Image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
+![Image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ## 𝗦𝘁𝗮𝘁𝘀
-
-![Sultonmahmudov-Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultonmahmudov-abdulaziz&show_icons=true&bg_color=00000000)
 
 ![Sultonmahmudov-Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sultonmahmudov-Abdulaziz&show_icons=true&theme=transparent)
