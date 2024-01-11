@@ -42,3 +42,13 @@ Men har doim loyihalar va innovatsion g'oyalar ustida hamkorlik qilishga tayorma
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![Sultonmahmudov-Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sultonmahmudov-Abdulaziz&show_icons=true&theme=transparent)
+
+
+
+![I amPython dasturchisi](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sultonmahmudov-Abdulaziz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abdulaziz_o2o4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abdulaziz_o2o4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abdulaziz_o2o4)  
+
