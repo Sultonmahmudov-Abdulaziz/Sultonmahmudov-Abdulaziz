@@ -2,7 +2,7 @@
 
 
 
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi there! I'm Abdulaziz <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 Men Python CSS va HTMLdan foydalangan  holda yuqori darajali back-end xizmatlari , veb-ilovalar va tizimlarni yaratishga ixtisoslashgan dasturchiman. </br>
 
@@ -37,7 +37,10 @@ Men har doim loyihalar va innovatsion g'oyalar ustida hamkorlik qilishga tayorma
 ![Image](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Image](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+![Image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![Sultonmahmudov-Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultonmahmudov-abdulaziz&show_icons=true&bg_color=00000000)
+
+![Sultonmahmudov-Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sultonmahmudov-Abdulaziz&show_icons=true&theme=transparent)
