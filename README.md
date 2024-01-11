@@ -4,7 +4,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Men Python CSS va HTML dan foydalangan holda yuqori darajali back-end xizmatlari, veb-ilovalar va tizimlarni yaratishga ixtisoslashgan dasturchiman. </br>
+Men Python CSS va HTML dan ishlagan  holda yuqori darajali back-end xizmatlari, veb-ilovalar va tizimlarni yaratishga ixtisoslashgan dasturchiman. </br>
 
 Men har doim loyihalar va innovatsion g'oyalar ustida hamkorlik qilishga tayorman. Men haqimda koʻproq maʼlumot oling va men bilan bu yerda bogʻlaning:
 
