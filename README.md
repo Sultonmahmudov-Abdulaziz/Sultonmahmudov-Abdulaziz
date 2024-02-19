@@ -42,7 +42,7 @@ Men har doim loyihalar va innovatsion g'oyalar ustida hamkorlik qilishga tayorma
 
 
 
-![I amPython dasturchisi](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 
 
